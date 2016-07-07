@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mysticalcrops",
+  "name": "Mystical Crops",
+  "description": "A mod aimed at offering farmable resources and magical content!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://minecraft.curseforge.com/projects/mystical-crops",
+  "updateUrl": "",
+  "authorList": ["swordkorn"],
+  "credits": "Main mod: swordkorn. Ideas and suggestions: The great community!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

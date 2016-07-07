@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "age=0": { "model":"mysticalcrops:starCrop0" },
+    "age=1": { "model":"mysticalcrops:starCrop0" },
+    "age=2": { "model":"mysticalcrops:starCrop0" },
+    "age=3": { "model":"mysticalcrops:starCrop1" },
+    "age=4": { "model":"mysticalcrops:starCrop1" },
+    "age=5": { "model":"mysticalcrops:starCrop2" },
+    "age=6": { "model":"mysticalcrops:starCrop2" },
+    "age=7": { "model":"mysticalcrops:starCrop3" },
+    "inventory": { "model":"mysticalcrops:starCrop" }
+  }
+}
